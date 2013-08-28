@@ -11,3 +11,19 @@
  *= require_self
  *= require_tree .
  */
+
+body{
+  background-image:url('background.jpg');
+}
+
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.bird{
+	height: 50px;
+	width: 50px;
+}
